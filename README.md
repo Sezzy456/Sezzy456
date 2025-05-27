@@ -1,5 +1,4 @@
-# 👋 Hi, I’m Sarah (aka Sezzy456)
-
+# 👋 Hi, I’m Sarah 
 Welcome to my GitHub! I’m a Melbourne-based designer and junior developer with a background in User Experience Design, and a passion for technology, games, and the web.
 
 ## 💻 About Me
